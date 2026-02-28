@@ -1,6 +1,6 @@
 ---
 created: 2026-02-28T20:06
-updated: 2026-02-28T20:08
+updated: 2026-02-28T20:42
 ---
 # Book Summary Plugin for Claude Code
 
@@ -34,20 +34,14 @@ The Book Summary Plugin processes Readwise book highlight files into comprehensi
 
 ## Installation
 
-### Option 1: From Claude Marketplace (Recommended)
-
-```bash
-/plugin install book-summary
-```
-
-### Option 2: From GitHub
+### Option 1: From GitHub (Recommended)
 
 ```bash
 /plugin marketplace add mfalgorythmic/book-summary-plugin
 /plugin install book-summary
 ```
 
-### Option 3: Manual Installation
+### Option 2: Manual Installation
 
 1. Clone this repository:
    ```bash
