@@ -1,0 +1,29 @@
+{
+  "name": "book-summary",
+  "description": "Process Readwise book highlights into comprehensive summaries using a two-tier AI pipeline (Haiku extraction + Sonnet synthesis). 70% faster and 46% cheaper than traditional methods while maintaining quality. Perfect for Obsidian knowledge management workflows.",
+  "version": "3.0.0",
+  "author": {
+    "name": "Michael Fichter",
+    "url": "https://github.com/mfalgorythmic"
+  },
+  "homepage": "https://github.com/mfalgorythmic/book-summary-plugin",
+  "license": "MIT",
+  "keywords": [
+    "books",
+    "readwise",
+    "summarization",
+    "knowledge-management",
+    "obsidian",
+    "second-brain",
+    "pkm",
+    "reading",
+    "ai-summarization"
+  ],
+  "engines": {
+    "claude": ">=1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfalgorythmic/book-summary-plugin"
+  }
+}
